@@ -35,4 +35,4 @@ bot.on('ready', () => {
     console.log('Bot launched...')
 })
 
-bot.login('NTYxNDIxOTEyNjA2MjQ0ODc0.XQRjOQ.BvBiIhpjJ_g-WB2YgemegkRS3u4')
+bot.login(#bot_token)
